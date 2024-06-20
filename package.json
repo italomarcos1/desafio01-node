@@ -1,0 +1,8 @@
+{
+  "name": "desafio01",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "packageManager": "yarn@3.6.4"
+}
